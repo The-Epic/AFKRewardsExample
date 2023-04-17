@@ -1,0 +1,14 @@
+name: AFKRewards
+version: '${version}'
+main: xyz.epicebic.afkrewards.AFKRewards
+api-version: 1.18
+
+
+commands:
+  afkreward:
+    permission: afkreward.command
+
+
+permissions:
+  afkreward.command:
+    default: op

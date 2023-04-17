@@ -1,0 +1,12 @@
+
+# Run /afkrewards set once to make this work
+item:
+
+# Delay, changeable here
+delay: 10 #This is in minutes
+
+#Name of the world to give rewards to
+world-name: world
+
+#Toggles the rewards
+enabled: true
